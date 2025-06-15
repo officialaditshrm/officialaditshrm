@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currently learning Full-Stack Web Development on MERN
+- I'm building a project called 'MC On the Go' with the team from my organization VIT Music Club
+- I like to learn things practically whilst trying them
+- You can reach me here on my portfolio website: <a href = "https://officialaditshrm.github.io/portfolio">Portfolio</a>
+- My linkedIn is: <a href = "https://linkedin.com/in/aditshrm">URL</a>
