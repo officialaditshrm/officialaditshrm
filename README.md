@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm currently learning Full-Stack Web Development on MERN
-- I'm building a project called 'MC On the Go' with the team from my organization VIT Music Club
+- I'm building the following projects
+  - 'MC On the Go' which is an exclusive website for the members of VIT Music Club for ease of their day-to-day business in the club
+  - 'Khana-Ghar' which is an online restaurant booking and food delivery full-stack system
+  - 'Resume Builder' which is a multiple user online resume building website using MERN Stack
 - I like to learn things practically whilst trying them
 - You can reach me here on my portfolio website: <a href = "https://officialaditshrm.github.io/portfolio">Portfolio</a>
 - My linkedIn is: <a href = "https://linkedin.com/in/aditshrm">URL</a>
